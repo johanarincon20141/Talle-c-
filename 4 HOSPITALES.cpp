@@ -6,7 +6,7 @@ int main(){
 	
 	
 	float valor;
-	cout <<"ingres el presupuesto";
+	cout <<"ingres el presupuesto por favooooor";
 	cin >> valor;
 	
 	
