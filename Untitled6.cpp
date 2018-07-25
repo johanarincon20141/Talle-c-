@@ -7,7 +7,7 @@ int  main () {
 
 int numero=0, resultado=0,  i=0 ;
 
-cout <<"ingrse numeo a multiplicr";
+cout <<"ingrse numeo a multiplicar";
 cin >> numero;
 
 
