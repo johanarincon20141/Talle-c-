@@ -7,7 +7,7 @@ int main (){
 	
 	int valor;
 	
-	cout << " ingrese el valor carro y terreno" << endl;
+	cout << " ingrese el valor carro y terreno :)" << endl;
 	
 	cin >> valor;
 	
